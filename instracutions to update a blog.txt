@@ -1,0 +1,25 @@
+1. Copy Blog_template.html and create a new file for blogging and open that file.
+2. Find "Number & Title" String enclosed in <h1> tag and Replace it with Blog number and Title of the Blog
+3. Find "Blog Abstract" string and replace it with High level content of the Blog
+4. Fine "Write here" and Name and replace them accordingly.
+5. There are 3 sections available to attach images, Attach them as per your convience.
+6. Save the file.
+7. Open works.html file and go to respective location. Copy the below code and right place.
+
+                <div class="row">
+                    <div class="col-sm-4">
+
+                      <a href="./work.html" title="" class="black-image-project-hover">
+                        <img src="./static/assets/images/work01-hover.jpg" alt="" class="img-responsive">
+                      </a>
+                      <div class="card-container card-container-lg">
+                        <h4>SM007</h4>
+                        <h3>Blog7 Title</h3>
+                        <p>Blog7 hint</p>
+                        <a href="./work.html" title="" class="btn btn-default">Discover</a>
+                      </div>
+                    </div>
+                </div>
+				
+8. Make required changes and ensure its linked to right HTML File.
+9. Save and Deploy the file
